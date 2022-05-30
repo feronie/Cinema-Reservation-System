@@ -1,22 +1,6 @@
 
-/////////// Type Below: LOCATION OF DIR ///////////
-   src/  (Inside of the src file)
-///////////////////////////////////////////////////
+This is a javafx gui application project that given by HU CS lecturers
 
+You should download assets file and unzip it to src file to compile and run code.
 
-
-///////////// Type Below: COMPILATION //////////////
- javac *.java
-///////////////////////////////////////////////////
-
-
-
-///////////////// Type Below: RUN /////////////////
- java Main
-///////////////////////////////////////////////////
-
-
-////////// Type Below: LOCATION OF ASSETS //////////
- src/   (Inside of the src file)
-///////////////////////////////////////////////////
-
+Original Instructions pdf file(prepared by lecturers) is changed to according to my implementation
